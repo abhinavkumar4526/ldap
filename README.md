@@ -7,3 +7,6 @@
  - demo user credentials:
    - username: admin
    - password: admin
+
+- to run the flask app: flask --app app run
+- url: http://localhost:5000/login
